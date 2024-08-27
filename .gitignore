@@ -1,3 +1,4 @@
 /.idea/*
 /path/*
 /anonymized_data_spark.csv/*
+/sample_data.csv
